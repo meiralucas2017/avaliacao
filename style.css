@@ -19,7 +19,7 @@
   }
  
 .cabecalho{
-    background-color: #e6a41f;
+    background-color: #acaaa7;
     color: #FFFFFF;
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@
     padding: 24px 0;
 }
 .cabecalho-imagem{
-width: 30%;
+width: 50%;
 padding: 0 15px;
 
 }
@@ -46,7 +46,7 @@ padding: 0 15px;
     width: 20%;
 }
 .escola{
-    background-image:linear-gradient(#fa6210, #D8E9EC);
+    background-image:linear-gradient(#747474, #D8E9EC);
     color: white;
     display: flex;
     justify-content: center;
@@ -81,5 +81,5 @@ padding: 0 15px;
 grid-template-columns: 0,5% 30% 65%;
 }
 .estudante{
-    background-color: #24d629;
+    background-color: #ecf1ed;
 }
